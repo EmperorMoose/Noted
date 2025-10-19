@@ -136,3 +136,4 @@
 /Users/adammatthews/Code/Noted/Noted.Tests/obj/Debug/net8.0/Noted.Tests.genruntimeconfig.cache
 /Users/adammatthews/Code/Noted/Noted.Tests/obj/Debug/net8.0/ref/Noted.Tests.dll
 /Users/adammatthews/Code/Noted/Noted.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/adammatthews/Code/Noted/Noted.Tests/obj/Debug/net8.0/Noted.Tests.sourcelink.json

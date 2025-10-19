@@ -15,3 +15,4 @@
 /Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.pdb
 /Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.genruntimeconfig.cache
 /Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/ref/Noted.Application.dll
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.sourcelink.json
