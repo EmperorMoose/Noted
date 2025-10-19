@@ -52,8 +52,8 @@ jobs:
 
       - name: Run container for health check
         run: |
-          docker run -d -p 5000:5000 --name noted-health-test \
-            -e ASPNETCORE_URLS=http://+:5000 \
+          docker run -d -p 8080:8080 --name noted-health-test \
+            -e ASPNETCORE_URLS=http://+:8080 \
             -e ConnectionStrings__Default="Host=localhost;Port=5432;Database=notedb;Username=postgres;Password=deadpaste" \
             noted-api
 
@@ -62,4 +62,4 @@ jobs:
 
       - name: Hit /health endpoint
         run: |
-          curl --fail http://localhost:5000/health
+          curl --fail http://localhost:8080/health
