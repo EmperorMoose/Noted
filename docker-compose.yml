@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15
+    container_name: noted-postgres
+    environment:
+      POSTGRES_DB: notedb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: deadpaste
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - noted-network
+
+  # Noted API
+  noted-api:
+    build:
+      context: .
+      dockerfile: Noted.Api/Dockerfile
+    container_name: noted-api
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=postgres;Port=5432;Database=notedb;User Id=postgres;Password=deadpaste;
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+    networks:
+      - noted-network
+
+volumes:
+  postgres_data:
+
+networks:
+  noted-network:
+    driver: bridge

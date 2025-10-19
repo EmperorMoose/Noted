@@ -1,0 +1,11 @@
+/Users/adammatthews/Code/Noted/Noted.Shared/bin/Debug/net8.0/Noted.Shared.deps.json
+/Users/adammatthews/Code/Noted/Noted.Shared/bin/Debug/net8.0/Noted.Shared.dll
+/Users/adammatthews/Code/Noted/Noted.Shared/bin/Debug/net8.0/Noted.Shared.pdb
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/Noted.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/Noted.Shared.AssemblyInfoInputs.cache
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/Noted.Shared.AssemblyInfo.cs
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/Noted.Shared.csproj.CoreCompileInputs.cache
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/Noted.Shared.dll
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/refint/Noted.Shared.dll
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/Noted.Shared.pdb
+/Users/adammatthews/Code/Noted/Noted.Shared/obj/Debug/net8.0/ref/Noted.Shared.dll

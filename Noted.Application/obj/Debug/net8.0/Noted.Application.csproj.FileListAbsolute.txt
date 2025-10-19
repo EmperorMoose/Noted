@@ -1,0 +1,17 @@
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.csproj.AssemblyReference.cache
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.AssemblyInfoInputs.cache
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.AssemblyInfo.cs
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.csproj.CoreCompileInputs.cache
+/Users/adammatthews/Code/Noted/Noted.Application/bin/Debug/net8.0/Noted.Application.deps.json
+/Users/adammatthews/Code/Noted/Noted.Application/bin/Debug/net8.0/Noted.Application.runtimeconfig.json
+/Users/adammatthews/Code/Noted/Noted.Application/bin/Debug/net8.0/Noted.Application.dll
+/Users/adammatthews/Code/Noted/Noted.Application/bin/Debug/net8.0/Noted.Application.pdb
+/Users/adammatthews/Code/Noted/Noted.Application/bin/Debug/net8.0/Noted.Shared.dll
+/Users/adammatthews/Code/Noted/Noted.Application/bin/Debug/net8.0/Noted.Shared.pdb
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Ap.80DF6360.Up2Date
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.dll
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/refint/Noted.Application.dll
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.pdb
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/Noted.Application.genruntimeconfig.cache
+/Users/adammatthews/Code/Noted/Noted.Application/obj/Debug/net8.0/ref/Noted.Application.dll
